@@ -2,6 +2,10 @@
 
 Few styles for markdown borrowed here and their and made available on github pages.
 
+## List of all available themes
+
+The list of all themes is available at [kpym.github.com/markdown-css/list.txt](https://kpym.github.com/markdown-css/list.txt).
+
 ## [github.com/mixu/markdown-styles](https://github.com/mixu/markdown-styles)
 
 License: unknown
